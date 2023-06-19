@@ -1,14 +1,14 @@
 Wormhole Docs
 -------------
 
-Developer docs for Wormhole
+Developer and core documentation for Wormhole
 
 ## Contributing
 
 To contribute to the docs, 
 
-1) Fork the repo 
-2) Make the change locally and commit it to a new branch 
+1) Fork the repo 🍴
+2) Make the change locally and commit it to a new branch 🎋
 3) Open a pull request with a description of the change and motivation if necessary
 4) Pat yourself on the back, you just helped a bunch of devs :raised-hands:
 
