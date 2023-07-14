@@ -31,6 +31,7 @@ More details about the Spy are available in the [docs](https://docs.wormhole.com
 ### Wormhole Network Spy
 
 In order for our Relayer app to receive messages, a local Spy must be running that watches the guardian network. Our relayer app will receive updates from this Spy.
+Spy is a module that listens to the incoming traffic from the Guardian nodes on Wormhole.
 
 <details>
 <summary><b>Testnet Spy</b></summary>
