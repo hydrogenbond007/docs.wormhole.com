@@ -1,4 +1,5 @@
-There are two primary ways to enable communication across chains with Wormhole.
+Relayers are the primary way of interacting with the Guardians and passing payloads, there are two different relayer implementations. 
+You can also use a predefined relayer rather than setting up your own which requires users to pay extra for the fee and operations run by relayer provider. 
 
 1) [Automatic Relaying](#automatic-relaying) - No off chain code required
 2) [Specialized Relaying](#specialized-relayer) - Some off chain code may be required
